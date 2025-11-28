@@ -190,6 +190,7 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-11-28 at 11 15 15_b412f6d0](https://github.com/user-attachments/assets/5361df03-bdeb-44eb-ad64-c1b990c4d4f5)
+![WhatsApp Image 2025-11-28 at 11 20 36_2833d200](https://github.com/user-attachments/assets/3399fbd3-4a30-4fd9-8c95-c3c1419377a0)
 
 
 ---
@@ -205,7 +206,8 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
 
-<img width="1006" height="1087" alt="image" src="https://github.com/user-attachments/assets/636c08f9-7940-470e-a89e-4891d57a9ac7" />
+![WhatsApp Image 2025-11-28 at 11 23 50_ddbca5e7](https://github.com/user-attachments/assets/06834df2-503f-40ce-b6b1-69a7946b3dbc)
+
 
 PROCEDURE:
 
@@ -221,14 +223,13 @@ PROCEDURE:
 
 ## TABULATION (Instrumentation Amplifier)
 
-| S.No | V1 (V) | V2 (V) | Vo = (Rf / R1) [1 + (2R’ / R)] (V2 – V1) (V) | Theoretical | Practical |
-|------|---------|---------|----------------------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+![WhatsApp Image 2025-11-28 at 11 26 39_396f663f](https://github.com/user-attachments/assets/cdf61bac-a429-4cfb-9dc2-90af05843c61)
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-28 at 11 21 22_15f1f7da](https://github.com/user-attachments/assets/c456dbbf-a9f7-4a77-bfc7-14db08813175)
+![WhatsApp Image 2025-11-28 at 11 23 51_bc7e615b](https://github.com/user-attachments/assets/a29e90b5-308e-417e-aad8-ee1129b10a65)
 
 
 ---
